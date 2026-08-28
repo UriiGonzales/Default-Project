@@ -1,0 +1,7 @@
+streamlit>=1.33
+sympy>=1.12
+plotly>=5.20
+numpy>=1.26
+
+# Opcional: usa PostgreSQL en lugar de SQLite (ver README).
+# psycopg2-binary>=2.9
